@@ -22,3 +22,6 @@ if a > b:
     # /*-+
 list22 = [1,2,3,4,5,5,True,False,'elias']
 print(list22)
+
+lis2 = (1,2,3,4)
+print(lis2)
