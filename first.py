@@ -26,3 +26,26 @@
 # lis2 = (1,2,3,4)
 # print(lis2)
 
+# def say_hi():
+#     print('say hi')
+#
+#
+#
+# def get_greeting():
+#   return "Hello from a function"
+#
+# message = get_greeting()
+# print(message)
+i = 1
+while i < 6:
+    print(i)
+    i += 1
+
+
+
+i = 1
+while i < 6:
+  print(i)
+  if i == 3:
+    break
+  i += 1
