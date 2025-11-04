@@ -49,7 +49,13 @@
 #   if i == 3:
 #     break
 #   i += 1
-list_a = [1,2,3,4,5]
-for item in list_a:
-    print(item)
+# list_a = [1,2,3,4,5]
+# for item in list_a:
+#     print(item)
 
+list_2d = [
+    [1,2,3],
+    [4,5,6],
+    [7,8,9]
+]
+print(list_2d [1][2])
