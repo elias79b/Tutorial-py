@@ -58,4 +58,4 @@ list_2d = [
     [4,5,6],
     [7,8,9]
 ]
-print(list_2d [1][2])
+# print(list_2d [1][2])
