@@ -1,61 +1,6 @@
-# print('hello word')
-# name = "elyas"
-# age = 25
-# is_male = True
-# print(name,age,is_male)
-# print('tarazo\n bojnourd\trrrr ')
-#
-# print ("esbi \'ssss\'")
-#
-# num1 = 2
-# num3 = 7
-# print (num1+num3)
-# name =  input("hi buddy")
-# print("your name is"+ name)
-# a = 90
-# b = 30
-#
-# if a > b:
-#     print ("aaaa")
-#
-#
-#     # /*-+
-# list22 = [1,2,3,4,5,5,True,False,'elias']
-# print(list22)
-#
-# lis2 = (1,2,3,4)
-# print(lis2)
+from SoccerPlayer import Player
 
-# def say_hi():
-#     print('say hi')
-#
-#
-#
-# def get_greeting():
-#   return "Hello from a function"
-#
-# message = get_greeting()
-# print(message)
-# i = 1
-# while i < 6:
-#     print(i)
-#     i += 1
-#
-#
-#
-# i = 1
-# while i < 6:
-#   print(i)
-#   if i == 3:
-#     break
-#   i += 1
-# list_a = [1,2,3,4,5]
-# for item in list_a:
-#     print(item)
 
-list_2d = [
-    [1,2,3],
-    [4,5,6],
-    [7,8,9]
-]
-# print(list_2d [1][2])
+
+player1 = Player("Elyas", "20", "Tehran")
+player1.get_status()
